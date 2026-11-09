@@ -1,6 +1,6 @@
 # Aprende Java creando una mascota virtual
 
-Curso introductorio de **60 minutos** dirigido a estudiantes de secundaria de 12 a 17 años. Aprenderás con programas de consola en Java y un editor gratuito en el navegador.
+Curso introductorio de **45 minutos** dirigido a estudiantes de secundaria de 12 a 17 años. Aprenderás con programas de consola en Java y un editor gratuito en el navegador.
 
 ## Empezar
 
@@ -59,6 +59,6 @@ El script compila con `--release 17`, ejecuta los programas y comprueba salidas 
 
 ## Estado
 
-El video maestro de **60:00** está montado y verificado. Incluye los 45 minutos del guion base y 15 minutos de demostraciones, retos y remates, repartidos en seis lecciones.
+El curso está montado en **seis videos independientes**. Las lecciones duran 5, 7, 7, 7, 10 y 9 minutos, respectivamente.
 
 El plan del curso reúne los enlaces que faltan para la entrega académica.
