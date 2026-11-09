@@ -1,0 +1,47 @@
+{
+  "source": "JDoodle Java online IDE",
+  "captures": [
+    {
+      "chapter": 1,
+      "file": "capturas/01-hola-mundo.jpg",
+      "proof": "Hola, mundo y el mensaje de bienvenida",
+      "bytes": 68833
+    },
+    {
+      "chapter": 2,
+      "file": "capturas/02-variables-operadores.jpg",
+      "proof": "Operaciones de energía; resultado 45",
+      "bytes": 96443
+    },
+    {
+      "chapter": 3,
+      "file": "capturas/03-decisiones-bucles.jpg",
+      "proof": "Decisión, for, while; energía final 60",
+      "bytes": 76640
+    },
+    {
+      "chapter": 4,
+      "file": "capturas/04-metodos-y-scanner.jpg",
+      "proof": "Entrada Luna y 30, llamada a calcularEnergia y salida 70",
+      "bytes": 90318
+    },
+    {
+      "chapter": 5,
+      "file": "capturas/05-clases-y-objetos.jpg",
+      "proof": "Creación de Luna y Sol con estados independientes",
+      "bytes": 88616
+    },
+    {
+      "chapter": 5,
+      "file": "capturas/05b-encapsulacion.jpg",
+      "proof": "Atributos privados, constructor, getter y energía acotada a 100",
+      "bytes": 86789
+    },
+    {
+      "chapter": 6,
+      "file": "capturas/06-arrays-proyecto-final.jpg",
+      "proof": "Array, bucle y salida: Luna 70, Sol 100",
+      "bytes": 96919
+    }
+  ]
+}

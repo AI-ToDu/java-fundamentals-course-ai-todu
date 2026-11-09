@@ -1,0 +1,16 @@
+{
+  "planned_duration_seconds": 2700,
+  "scene_count": 38,
+  "narration_words": 3734,
+  "estimated_voice_seconds_at_125_wpm": 1792.3,
+  "chapter_durations_seconds": {
+    "1": 300,
+    "2": 420,
+    "3": 420,
+    "4": 420,
+    "5": 600,
+    "6": 540
+  },
+  "warnings": [],
+  "scope": "planning estimate, separate from production status"
+}

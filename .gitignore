@@ -1,0 +1,5 @@
+/audio/
+/guia-de-montaje.md
+*.class
+__pycache__/
+*.mp4

@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "scope": "local Java compilation and execution",
+  "source_release": 17,
+  "checks": [
+    {
+      "file": "starter-files/01/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "starter-files/02/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "starter-files/03/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "starter-files/04/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "starter-files/05/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "starter-files/06/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/01/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/02/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/03/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/04/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/05/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "file": "completed-examples/06/Main.java",
+      "compiled_release": 17,
+      "executed": true
+    },
+    {
+      "lesson": "04",
+      "input": "abc",
+      "rejected": true
+    },
+    {
+      "lesson": "04",
+      "input": "-1",
+      "rejected": true
+    },
+    {
+      "lesson": "04",
+      "input": "101",
+      "rejected": true
+    },
+    {
+      "lesson": "06",
+      "input": "abc",
+      "rejected": true
+    },
+    {
+      "lesson": "06",
+      "input": "-1",
+      "rejected": true
+    },
+    {
+      "lesson": "06",
+      "input": "101",
+      "rejected": true
+    },
+    {
+      "lesson": "06",
+      "input": "0",
+      "energy_limits": true
+    },
+    {
+      "lesson": "06",
+      "input": "100",
+      "energy_limits": true
+    },
+    {
+      "class": "Mascota",
+      "bounds_and_independence": true
+    }
+  ],
+  "not_verified": [
+    "JDoodle shared links",
+    "ElevenLabs audio",
+    "final video duration"
+  ],
+  "runtime": "OpenJDK 26.0.2.1; source compilation targeted Java 17 with --release 17"
+}
